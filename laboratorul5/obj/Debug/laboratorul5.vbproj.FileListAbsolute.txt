@@ -1,0 +1,56 @@
+C:\Users\alexm\source\repos\laboratorul5\laboratorul5\bin\Debug\laboratorul5.exe.config
+C:\Users\alexm\source\repos\laboratorul5\laboratorul5\bin\Debug\laboratorul5.exe
+C:\Users\alexm\source\repos\laboratorul5\laboratorul5\bin\Debug\laboratorul5.pdb
+C:\Users\alexm\source\repos\laboratorul5\laboratorul5\bin\Debug\laboratorul5.xml
+C:\Users\alexm\source\repos\laboratorul5\laboratorul5\obj\Debug\laboratorul5.vbprojAssemblyReference.cache
+C:\Users\alexm\source\repos\laboratorul5\laboratorul5\obj\Debug\laboratorul5.Form1.resources
+C:\Users\alexm\source\repos\laboratorul5\laboratorul5\obj\Debug\laboratorul5.Resources.resources
+C:\Users\alexm\source\repos\laboratorul5\laboratorul5\obj\Debug\laboratorul5.vbproj.GenerateResource.cache
+C:\Users\alexm\source\repos\laboratorul5\laboratorul5\obj\Debug\laboratorul5.vbproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\laboratorul5\laboratorul5\obj\Debug\laboratorul5.exe
+C:\Users\alexm\source\repos\laboratorul5\laboratorul5\obj\Debug\laboratorul5.xml
+C:\Users\alexm\source\repos\laboratorul5\laboratorul5\obj\Debug\laboratorul5.pdb
+C:\Users\alexm\source\repos\laboratorul5\laboratorul5\obj\Debug\laboratorul5.Form2.resources
+C:\Users\Alex\Desktop\primul proiect\lab5\laboratorul5\laboratorul5\bin\Debug\laboratorul5.exe.config
+C:\Users\Alex\Desktop\primul proiect\lab5\laboratorul5\laboratorul5\bin\Debug\laboratorul5.exe
+C:\Users\Alex\Desktop\primul proiect\lab5\laboratorul5\laboratorul5\bin\Debug\laboratorul5.pdb
+C:\Users\Alex\Desktop\primul proiect\lab5\laboratorul5\laboratorul5\bin\Debug\laboratorul5.xml
+C:\Users\Alex\Desktop\primul proiect\lab5\laboratorul5\laboratorul5\obj\Debug\laboratorul5.vbproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\primul proiect\lab5\laboratorul5\laboratorul5\obj\Debug\laboratorul5.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Desktop\primul proiect\lab5\laboratorul5\laboratorul5\obj\Debug\laboratorul5.Form1.resources
+C:\Users\Alex\Desktop\primul proiect\lab5\laboratorul5\laboratorul5\obj\Debug\laboratorul5.Form2.resources
+C:\Users\Alex\Desktop\primul proiect\lab5\laboratorul5\laboratorul5\obj\Debug\laboratorul5.Resources.resources
+C:\Users\Alex\Desktop\primul proiect\lab5\laboratorul5\laboratorul5\obj\Debug\laboratorul5.vbproj.GenerateResource.cache
+C:\Users\Alex\Desktop\primul proiect\lab5\laboratorul5\laboratorul5\obj\Debug\laboratorul5.vbproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\primul proiect\lab5\laboratorul5\laboratorul5\obj\Debug\laboratorul5.exe
+C:\Users\Alex\Desktop\primul proiect\lab5\laboratorul5\laboratorul5\obj\Debug\laboratorul5.xml
+C:\Users\Alex\Desktop\primul proiect\lab5\laboratorul5\laboratorul5\obj\Debug\laboratorul5.pdb
+C:\Users\Alex\Desktop\primul proiect\lab5\laboratorul5\laboratorul5\obj\Debug\laboratorul5.Form3.resources
+C:\Users\Alex\Desktop\primul proiect\lab5\laboratorul5\laboratorul5\obj\Debug\laboratorul5.Form4.resources
+C:\Users\Alex\Desktop\Aplicatie higro finala\lab5\laboratorul5\laboratorul5\bin\Debug\laboratorul5.exe.config
+C:\Users\Alex\Desktop\Aplicatie higro finala\lab5\laboratorul5\laboratorul5\bin\Debug\laboratorul5.exe
+C:\Users\Alex\Desktop\Aplicatie higro finala\lab5\laboratorul5\laboratorul5\bin\Debug\laboratorul5.pdb
+C:\Users\Alex\Desktop\Aplicatie higro finala\lab5\laboratorul5\laboratorul5\bin\Debug\laboratorul5.xml
+C:\Users\Alex\Desktop\Aplicatie higro finala\lab5\laboratorul5\laboratorul5\obj\Debug\laboratorul5.vbproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Aplicatie higro finala\lab5\laboratorul5\laboratorul5\obj\Debug\laboratorul5.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Desktop\Aplicatie higro finala\lab5\laboratorul5\laboratorul5\obj\Debug\laboratorul5.Form1.resources
+C:\Users\Alex\Desktop\Aplicatie higro finala\lab5\laboratorul5\laboratorul5\obj\Debug\laboratorul5.Form2.resources
+C:\Users\Alex\Desktop\Aplicatie higro finala\lab5\laboratorul5\laboratorul5\obj\Debug\laboratorul5.Form3.resources
+C:\Users\Alex\Desktop\Aplicatie higro finala\lab5\laboratorul5\laboratorul5\obj\Debug\laboratorul5.Form4.resources
+C:\Users\Alex\Desktop\Aplicatie higro finala\lab5\laboratorul5\laboratorul5\obj\Debug\laboratorul5.Resources.resources
+C:\Users\Alex\Desktop\Aplicatie higro finala\lab5\laboratorul5\laboratorul5\obj\Debug\laboratorul5.vbproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Aplicatie higro finala\lab5\laboratorul5\laboratorul5\obj\Debug\laboratorul5.vbproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Aplicatie higro finala\lab5\laboratorul5\laboratorul5\obj\Debug\laboratorul5.exe
+C:\Users\Alex\Desktop\Aplicatie higro finala\lab5\laboratorul5\laboratorul5\obj\Debug\laboratorul5.xml
+C:\Users\Alex\Desktop\Aplicatie higro finala\lab5\laboratorul5\laboratorul5\obj\Debug\laboratorul5.pdb
+C:\Users\Alex\Desktop\Aplicatie_higro\laboratorul5\obj\Debug\laboratorul5.vbproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Aplicatie_higro\laboratorul5\obj\Debug\laboratorul5.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Desktop\Aplicatie_higro\laboratorul5\obj\Debug\laboratorul5.exe
+C:\Users\Alex\Desktop\Aplicatie_higro\laboratorul5\obj\Debug\laboratorul5.xml
+C:\Users\Alex\Desktop\Aplicatie_higro\laboratorul5\obj\Debug\laboratorul5.pdb
+C:\Users\Alex\Desktop\Aplicatie_higro\laboratorul5\obj\Debug\laboratorul5.Form1.resources
+C:\Users\Alex\Desktop\Aplicatie_higro\laboratorul5\obj\Debug\laboratorul5.Form2.resources
+C:\Users\Alex\Desktop\Aplicatie_higro\laboratorul5\obj\Debug\laboratorul5.Form3.resources
+C:\Users\Alex\Desktop\Aplicatie_higro\laboratorul5\obj\Debug\laboratorul5.Resources.resources
+C:\Users\Alex\Desktop\Aplicatie_higro\laboratorul5\obj\Debug\laboratorul5.vbproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Aplicatie_higro\laboratorul5\obj\Debug\laboratorul5.vbproj.CoreCompileInputs.cache
